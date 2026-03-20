@@ -1,0 +1,5 @@
+data_NASICON_NA_MN_PHOSPHATE_BUDGET__G1_V1
+_symmetry_space_group_name_H-M   'R-3c'
+_cell_length_a   8.82
+# bounded variant generated from chemistry-seed:nasicon:7f24e212-50a4-4cf7-980b-09e01add2d92
+# composition Na3.05Zr1.95Mn0.05Si2P1O12

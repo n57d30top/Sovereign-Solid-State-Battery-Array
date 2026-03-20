@@ -1,0 +1,5 @@
+data_LLZO_TA_DOPED_BOUNDED_V1
+_symmetry_space_group_name_H-M   'Ia-3d'
+_cell_length_a   12.98
+# bounded variant generated from chemistry-seed:llzo:189fe768-78b4-41f7-8123-e11d4abdc68b
+# composition Li6.5La3Zr1.5Ta0.5O12
