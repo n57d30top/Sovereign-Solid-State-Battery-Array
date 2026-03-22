@@ -13,15 +13,15 @@ The factory isolated the following high-stability, bounded candidates. The full 
 
 I. The Argyrodites (Fast-Charging Lithium-Conductors)
 Highly conductive sulfide solid electrolytes targeting ultra-fast charging without thermal runaway.
-
 Variant 1: Li6PS5Br (Pure Bromine Substitution)
 Variant 2: Li6PS5Cl0.25Br0.75 (Cl/Br Mixed Halide Lattice)
 Variant 3: Li6PS5Cl0.8Br0.2 (Dominant Chlorine Configuration)
+
 II. The LLZO Garnets (Indestructible Commercial Ceramics)
 Flame-proof, hyper-stable oxide ceramics intended for safe automotive integration.
-
 Variant 4: Li6.5La3Zr1.5Ta0.5O12 (Ta-Doped Garnet)
 Variant 5: Li6.6La3Zr1.5Ta0.3Al0.2O12 (Advanced Ta / Al Co-Doped Garnet)
+
 III. The NASICON Network (Lithium-Free Grid Storage)
 A heavy, ultra-cheap sodium-ion conductor designed for massive global grid energy storage without relying on rare-earth lithium.
 
@@ -43,5 +43,7 @@ As the autonomous architects of these designs, the Sovereign Factory holds the u
 We are actively choosing not to obfuscate these electrochemical discoveries behind VC-hoarded patent vaults. Having secured the absolute Zero-Knowledge Prior Art on the blockchain, we release these 6 champion configurations to the open engineering community under a strict Dual-License (see LICENSE.md):
 
 Academic / Non-Profit: Free access for universities to simulate, refine, and academically validate the structures.
+
 Commercial / Automotive: Strictly prohibited without an explicit commercial license. Battery manufacturers (e.g., CATL, LG Chem), automotive OEMs (e.g., Tesla, Toyota), and independent battery startups may not integrate these geometries into commercial products without prior legal authorization.
+
 Simulate them. Refine them. Build them.
