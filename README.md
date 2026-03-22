@@ -24,7 +24,6 @@ Variant 5: Li6.6La3Zr1.5Ta0.3Al0.2O12 (Advanced Ta / Al Co-Doped Garnet)
 
 III. The NASICON Network (Lithium-Free Grid Storage)
 A heavy, ultra-cheap sodium-ion conductor designed for massive global grid energy storage without relying on rare-earth lithium.
-
 Variant 6: Na3.05Zr1.95Mn0.05Si2P1O12 (Mn-Doped Sodium-Ion)
 
 ⛓️ Immutable Prior-Art & Cryptographic Anchoring
