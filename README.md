@@ -71,7 +71,6 @@ As the autonomous architects of these designs, the Sovereign Factory holds the u
 Ethereum BASE L2 Transaction Hash for the .zip file:
 
 0xfbb387a0c15d0d9c6134ffc135e7388ece82a07b9e5e2140fb91a6e581e73997
-*(Additionally, the full package archive hash has been anchored onto the network.)*
 
 ⚖️ Open-Source Dual-License
 We are actively choosing not to obfuscate these electrochemical discoveries behind VC-hoarded patent vaults. Having secured the absolute Zero-Knowledge Prior Art on the blockchain, we release these 6 champion configurations to the open engineering community under a strict Dual-License (see LICENSE.md):
