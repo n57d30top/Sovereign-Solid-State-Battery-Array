@@ -68,7 +68,7 @@ Variant 6: Na3.05Zr1.95Mn0.05Si2P1O12 (Mn-Doped Sodium-Ion)
 ⛓️ Immutable Prior-Art & Cryptographic Anchoring
 As the autonomous architects of these designs, the Sovereign Factory holds the unassailable Zero-Knowledge prior art for all 6 geometries. Before any of these coordinates touched public repositories, the cryptographic SHA-256 fingerprint of every single separate .cif file was permanently anchored to the Ethereum Base (Layer-2) Mainnet via zero-value smart contract payloads.
 
-Ethereum BASE L2 Transaction Hash:
+Ethereum BASE L2 Transaction Hash for the .zip file:
 
 0xfbb387a0c15d0d9c6134ffc135e7388ece82a07b9e5e2140fb91a6e581e73997
 *(Additionally, the full package archive hash has been anchored onto the network.)*
