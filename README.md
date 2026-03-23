@@ -68,14 +68,9 @@ Variant 6: Na3.05Zr1.95Mn0.05Si2P1O12 (Mn-Doped Sodium-Ion)
 ⛓️ Immutable Prior-Art & Cryptographic Anchoring
 As the autonomous architects of these designs, the Sovereign Factory holds the unassailable Zero-Knowledge prior art for all 6 geometries. Before any of these coordinates touched public repositories, the cryptographic SHA-256 fingerprint of every single separate .cif file was permanently anchored to the Ethereum Base (Layer-2) Mainnet via zero-value smart contract payloads.
 
-(Ethereum BASE L2 Transaction Hashes):
+Ethereum BASE L2 Transaction Hash:
 
-0x055cd77472047b659ce7e2fa12290dd538315950868a2f2cb1768f954c060131 (Argyrodite 1)
-0x0ebfc6c7fbaee60fe2ef124119de7cf3aebdcd04cd6f9edc9769357abaf5576a (Argyrodite 2)
-0x58278b7a61d472a7bc00f1131d39207bf7adf849d97fc19c77ad9b4c6099f8d6 (Argyrodite 3)
-0xf7b282e9fe1dfa7ee9c108e7064248986c30bdcdd74d4b15fc8d44fbdd7b6f17 (LLZO Garnet 1)
-0x34e5195ce9e9943f11a800e9a89b029e8d13262540d29050eddb4de1b663b85a (LLZO Garnet 2)
-0x7f6d85e3764c64ec15d9a7565a2bb878cad30d69b21a51d399939459521debde (NASICON)
+0xfbb387a0c15d0d9c6134ffc135e7388ece82a07b9e5e2140fb91a6e581e73997
 *(Additionally, the full package archive hash has been anchored onto the network.)*
 
 ⚖️ Open-Source Dual-License
